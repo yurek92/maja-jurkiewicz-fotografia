@@ -1,0 +1,15 @@
+.formItem {
+    font-size: 11pt;
+    padding: 5pt;
+    border-bottom: 0.5pt solid #b4b4bc;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div.page-layout {
+    height: 297mm;
+    width: 210mm;
+}
